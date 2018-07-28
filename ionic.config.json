@@ -1,0 +1,8 @@
+{
+  "name": "my-pomodoro",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "ef98d2d3"
+}
